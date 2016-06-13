@@ -1,0 +1,42 @@
+# GuitarV3
+GuitarV3.0
+测试代码运行界面
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/test.PNG)
+使用mysqlDao运行
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/6-1.PNG)
+MYSQL数据库中初始界面
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO3.PNG)
+用户查询
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO1.PNG)
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO2.PNG)
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO6.PNG)
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/6-2.PNG)
+吉他删除
+删除前
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO8.PNG)
+删除后
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO7.PNG)
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO9.PNG)
+吉他添加
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO10.PNG)
+添加后数据库中界面
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO11.PNG)
+ 查询结果
+ ![image](https://github.com/sahunter/GuitarV3/blob/master/img/mysqlDAO12.PNG)
+使用sqliteDao运行
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO1.PNG)
+sqlite数据库中初始界面
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO2.PNG)
+吉他添加
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO3.PNG)
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO4.PNG)
+用户查询
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO5.PNG)
+查询结果
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO6.PNG)
+吉他删除
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO7.PNG)
+删除后数据库界面
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO8.PNG)
+查询结果
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO9.PNG)
