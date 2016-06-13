@@ -39,4 +39,4 @@ sqlite数据库中初始界面
 删除后数据库界面
 ![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO8.PNG)
 查询结果
-![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO9.PNG)
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqiteDAO9.PNG)
