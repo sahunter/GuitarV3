@@ -29,9 +29,9 @@ sqlite数据库中初始界面
 ![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO2.PNG)
 吉他添加
 ![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO3.PNG)
-![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO4.PNG)
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqiteDAO4.PNG)
 用户查询
-![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO5.PNG)
+![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqiteDAO5.PNG)
 查询结果
 ![image](https://github.com/sahunter/GuitarV3/blob/master/img/sqliteDAO6.PNG)
 吉他删除
